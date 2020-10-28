@@ -1,6 +1,6 @@
 # Project Title
 
-Autonomous Racing - Project Group - TU Dortmund
+Autonomous Racing - Project Group
 
 [![Build Status](https://travis-ci.com/Autonomous-Racing-PG/ros.package.svg?branch=master)](https://travis-ci.com/Autonomous-Racing-PG/ros.package)
 
@@ -50,17 +50,12 @@ roslaunch launch/gazebo_car-teleop.launch
 catkin_make run_tests
 ```
 
-## Documentation
-
-* For general information and documentation checkout the [wiki page](https://github.com/Autonomous-Racing-PG/ros.package/wiki).
-* For source code documentation checkout the auto-generated [Doxygen documentation](https://autonomous-racing-pg.github.io/ros.package/html/index.html).
-
 ## License
 
 This project (exluded git submodules) is licensed under the MIT and GPLv3 dual licensed - see the [MIT.LICENSE](MIT.LICENSE) and [GPLv3.LICENSE](GPLv3.LICENSE) file for details
 
 ## Acknowledgments
 
-* TU Dortmund
+* S Sai Suryateja
 
 
