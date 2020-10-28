@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running
 ### Clone the Project
 
 ```bash
-git clone --recurse-submodules https://github.com/Autonomous-Racing-PG/ros.package.git arpg
+git clone --recurse-submodules https://github.com/sakurusurya2000/Autonomous_Car.git arpg
 cd arpg
 ```
 
